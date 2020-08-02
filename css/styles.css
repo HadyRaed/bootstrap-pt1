@@ -50,3 +50,10 @@ body
 	/*to activate must remove bg-primary*/
 background-color: #512DA8;
 }
+.tab-content
+{
+	border-left: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding:10px;
+}
