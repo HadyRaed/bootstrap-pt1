@@ -81,3 +81,10 @@ min-height: 300px;
 	text-align: center;
 	padding-bottom: 65px;
 }
+
+#carouselButton 
+{
+	right:0px;
+	position: absolute;
+	bottom: 0px;
+}
